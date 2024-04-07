@@ -14,4 +14,8 @@ Sincerity tool is a simple email content checker aim to rate the author sincerit
 **Note:**
 * This project is still in experimental phase.  Hence, sincerity index accurancy is questionable.
 
+Best run in Google's [Colab](https://colab.research.google.com/).
+
+Demo video of this code can be found [here](https://youtu.be/OkGQ4uS4Wz4).
+
 This project is based on Google's Gemini - [Gemini API: Quickstart with Python](https://ai.google.dev/tutorials/python_quickstart) and [Document Similarity with Examples in Python](https://www.linkedin.com/pulse/document-similarity-examples-python-rany-elhousieny-phd%E1%B4%AC%E1%B4%AE%E1%B4%B0-0i5lc/)
